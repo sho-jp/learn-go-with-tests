@@ -5,5 +5,5 @@ go 1.16
 require (
 	github.com/kisielk/errcheck v1.6.0 // indirect
 	golang.org/x/sys v0.0.0-20220310020820-b874c991c1a5 // indirect
-	golang.org/x/tools v0.1.9 // indirect
+	golang.org/x/tools v0.1.10 // indirect
 )
